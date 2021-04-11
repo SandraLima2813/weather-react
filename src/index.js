@@ -8,7 +8,11 @@ function App() {
   return (
     <div className="App">
       <Weather />
+      <h5> 
+     < a href= "https://github.com/SandraLima2813/weather-react.git">Open sourced</a>, coded by Sandra Lima
+      </h5>
     </div>
+   
   );
 }
 
